@@ -13,4 +13,7 @@ In this project, I analyzed Netflix’s content library to uncover trends and in
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **Jupyter Notebook** or **Google Colab**
 - **Netflix Movies and TV Shows Dataset** (from Kaggle)
-
+## How to Run the Code
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/mwebberclay/netflix-content-analysis.git
